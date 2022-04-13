@@ -1,0 +1,3 @@
+Tanto a classe Secretária quanto a classe Administrador herdam os atributos e metodos da classe login, o exemplo de 
+polimorfismo acontece quando o metodo "cadastro" herdado por ambas as classes, sofre uma alteração/sobrescrição  de acordo com
+as características de cada classe.

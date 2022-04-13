@@ -1,0 +1,12 @@
+2) Um carro pode ser visto como um objeto com uma série de encapsulamentos.
+Discuta membros públicos e privados para uma classe de Carro. 
+Seja criativo.
+
+Os membros são:
+
+Privados seriam: Velocidade maxima; Acelerar; Alarme(on/off); Ligar/Desligar o carro; Quantidade de combustivel injetado no motor;
+Quantidade de Ar para o motor; Temperatura maxima para ligar a ventoinha;  Voltagem minima da bateria para o funcionamento; 
+Abrir portas, vidros e o porta-malas; Ligar/Desligar luzes
+
+Publicos seriam: Velocidade atual; Temperatura atual; Voltagem atual da bateria; Quantidade de combustivel do tank;
+Ligar/Desligar o som; Se esta aberto portas, vidros e o porta-malas;
